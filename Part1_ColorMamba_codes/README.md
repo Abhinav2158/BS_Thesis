@@ -1,4 +1,4 @@
-ColorMamba/
+ColorMamba_codes/
 ├── assets/                     # Images and pre-trained models
 │   ├── autoencoder.pth        # Pre-trained autoencoder
 │   └── colormamba_architecture.png
